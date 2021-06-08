@@ -21,6 +21,6 @@ public class TestWeightConversion {
 
     @Test
     public void test_pound_to_kg_conversion(){
-        assertEquals(1 , wc.pound_to_kg_conversion(2.2));
+        assertEquals(10 , wc.pound_to_kg_conversion(2.2));
     }
 }
