@@ -16,7 +16,7 @@ public class TestWeightConversion {
 
     @Test
     public void test_grams_to_mg(){
-        assertEquals(1000, wc.grams_to_mg(1));
+        assertEquals(2000, wc.grams_to_mg(2));
     }
 
     @Test
